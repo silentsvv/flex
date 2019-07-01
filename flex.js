@@ -13,6 +13,7 @@ function flex(){
   }
   
 console.log('3');
+console.log('4');
 
   function getScreenWidth(){
     var width = docEl.getBoundingClientRect().width;
