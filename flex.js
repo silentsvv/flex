@@ -1,4 +1,5 @@
 console.log(1);
+console.log(2);
 function flex(){
   var doc = window.document,
     docEl = doc.documentElement,
